@@ -24,6 +24,14 @@ tbody td:first-child {
     padding-left: 20px;
 }
 
+thead p:nth-child(2) {
+    padding: 15px 0px 0px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    font-size: 34px;
+}
+
 thead th {
     color: white;
 }
